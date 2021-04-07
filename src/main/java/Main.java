@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args){
 
-        int limit = 100;
+        int limit = 150;
         int repeat = 1;
         Utils utils = new Utils();
         LSDForVariableLengthStrings sorter = new LSDForVariableLengthStrings();
